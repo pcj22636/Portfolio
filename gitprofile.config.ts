@@ -77,7 +77,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://docs.google.com/document/d/1kdvlwIegAGxh5JPS2hBR7pE5FHIyzhP4/edit?usp=sharing&ouid=108823435341836501055&rtpof=true&sd=true'
+      'https://docs.google.com/document/d/1kdvlwIegAGxh5JPS2hBR7pE5FHIyzhP4/edit?usp=sharing&ouid=108823435341836501055&rtpof=true&sd=true',
   },
   skills: [
     'Excel',
