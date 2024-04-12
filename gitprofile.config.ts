@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['pcj22636/gitprofile', 'pcj22636/pandora'], // List of repository names to display. example: ['pcj22636/my-project1', 'arifszn/my-project2']
+        projects: ['pcj22636/gitprofile', 'pcj22636/pandora'], // List of repository names to display. example: ['pcj22636/my-project1', 'pcj22636/my-project2']
       },
     },
     external: {
