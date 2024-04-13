@@ -104,6 +104,14 @@ const CONFIG = {
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://docs.google.com/document/u/1/d/18xoUuwxqGwr1ztOIJCPzjgCfm8E-yy8v/edit?usp=drive_web&ouid=112859243206455551697&rtpof=true',
         },
+        {
+          title: 'ISC2 Completiton',
+          description:
+            'Completion of ISC2 Cybersecurity',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://drive.google.com/drive/u/1/folders/1rZ23lWu5qYHl9oJsm_piJIUbRB7RhH8J?ths=true',
+        },
       ],
     },
   },
