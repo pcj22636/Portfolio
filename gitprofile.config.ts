@@ -33,20 +33,68 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Project Name',
-          description:
-            '',
+          title: 'Home Network Heatmap',
+          description: 
+            'Home network map and signal review',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://docs.google.com/presentation/u/1/d/1mVusOdy9SK5lxLmtlW6Cx7uiVJ1o8HV7/edit?usp=drive_web&ouid=112859243206455551697&rtpof=true',
         },
         {
-          title: 'Project Name',
+          title: 'Blog 2',
           description:
-            '',
+            'Networking Blog',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://docs.google.com/document/d/195WypPVWhfjt1ySso_o_6fjxx2A_EQ9t/edit#heading=h.gjdgxs',
+        },
+        {
+          title: 'Data Scientist Report',
+          description:
+            'Report on findings of the job requirements of a Data Scientist',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/document/u/1/d/1a52-R7_U1LYt555GdXGhVe6MjlH3qHM-/edit?usp=drive_web&ouid=112859243206455551697&rtpof=true',
+        },
+        {
+          title: 'Bullseye Presentation',
+          description:
+            'Strategy First BUS1200 Presentation',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/presentation/u/1/d/1vESApi42vxrVpFND4mDYjtiD7j-FuqBI/edit?usp=drive_web&ouid=112859243206455551697&rtpof=true',
+        },
+        {
+          title: 'TryHackMe Assignment',
+          description:
+            'TryHackMe Workbook',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/document/d/11yV-Qs_YsrIyrTnavFI2rC1SC_OeBXkbRlZ8CWV6Wgg/edit',
+        },
+        {
+          title: 'Use of Analytics in Management',
+          description:
+            'Team Project around Analytics in Management',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/document/d/1jiv9ds4CeYNJmKaOFhhCmYdT-_ajjDPs/edit',
+        },
+        {
+          title: 'NIST Cybersecurity Framework',
+          description:
+            'Cybersecurity Review',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/document/d/1paJi3h0QCWpWCNNcF_n1_1X-G7xClLcj/edit#heading=h.gjdgxs',
+        },
+        {
+          title: 'Linux Commands File Permissions',
+          description:
+            'Linux Commands',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: '',
         },
       ],
     },
