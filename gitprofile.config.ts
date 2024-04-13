@@ -158,7 +158,7 @@ const CONFIG = {
       companyLink: 'https://cpcc.edu',
     },
     {
-      company: 'Cemtral Piedmont',
+      company: 'Central Piedmont',
       position: 'Coordnator: Course Entry & Faculty Contracts',
       from: 'August 2017',
       to: 'April 2021',
