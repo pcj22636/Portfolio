@@ -81,9 +81,9 @@ const CONFIG = {
           link: 'https://docs.google.com/document/d/1jiv9ds4CeYNJmKaOFhhCmYdT-_ajjDPs/edit',
         },
         {
-          title: 'NIST Cybersecurity Framework',
+          title: 'XYZ Security Audit',
           description:
-            'Cybersecurity Review',
+            'Security Audit',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://docs.google.com/document/d/1paJi3h0QCWpWCNNcF_n1_1X-G7xClLcj/edit#heading=h.gjdgxs',
@@ -95,6 +95,14 @@ const CONFIG = {
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: '',
+        },
+        {
+          title: 'NIST Audit',
+          description:
+            'Cybersecurity Audit',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://docs.google.com/document/u/1/d/18xoUuwxqGwr1ztOIJCPzjgCfm8E-yy8v/edit?usp=drive_web&ouid=112859243206455551697&rtpof=true',
         },
       ],
     },
