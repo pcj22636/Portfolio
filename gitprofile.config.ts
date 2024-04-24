@@ -89,7 +89,7 @@ const CONFIG = {
           link: 'https://docs.google.com/document/d/1paJi3h0QCWpWCNNcF_n1_1X-G7xClLcj/edit#heading=h.gjdgxs',
         },
         {
-          title: 'Linux Commands File Permissions',
+          title: 'Linux Commands File Permission',
           description:
             'Linux Commands',
           imageUrl:
